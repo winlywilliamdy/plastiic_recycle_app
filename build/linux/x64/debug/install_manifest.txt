@@ -1,0 +1,12 @@
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/plastic_recycle_annotation
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/it/Documents/FE_Josie/plastic_recycle_annotation/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
